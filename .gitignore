@@ -6,3 +6,7 @@ backend/data/
 npm-debug.log*
 *-server.log
 *-server-error.log
+BAO_CAO_NOP_BAI.md
+BAO_CAO_NOP_BAI.html
+BAO_CAO_NOP_BAI.pdf
+.chrome-temp/
